@@ -1,48 +1,49 @@
 {
   "generated_at": "2026-08-04T16:55:00+00:00",
+  "layout": "releases/2026-08-04",
   "manifest_leaf": "sha256:bf87abef633efe52eaf232f074c203bf153b54157234a3d4f3389f0b8252ad05",
-  "model_asset_url": "https://github.com/biobitworks/preprint-submissions-20260804/releases/download/v2026.08.04/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+  "model_asset_url": "https://github.com/biobitworks/publication-releases/releases/download/v2026.08.04/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
   "published_commit_before_receipt": "6fa737f",
   "records": [
     {
       "bytes": 95426,
-      "path": "packages/fco_v4_v5_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+      "path": "sites/zenodo/2026-08-04/packages/fco_v4_v5_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
       "sha256": "95fcd1a33df863c88be4c316f743121a2645429fa333d4a1edf2204b966f2bbf",
       "source": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/fco_v4_v5/fco_v4_v5_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
     },
     {
       "bytes": 25232,
-      "path": "packages/xenodisorder_v2_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+      "path": "sites/zenodo/2026-08-04/packages/xenodisorder_v2_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
       "sha256": "1b62d148d4fdd146b53d6334158b6d36921812ddb57e5c496530d9b7a6a1ebe0",
       "source": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/xenodisorder_v2/xenodisorder_v2_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
     },
     {
       "bytes": 95806,
-      "path": "packages/shadow_dogma_v2_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+      "path": "sites/zenodo/2026-08-04/packages/shadow_dogma_v2_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
       "sha256": "23378fdf024fff28aaa1eb7c8a983d81881fb03860369b68699297c5cff9278b",
       "source": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/shadow_dogma_v2/shadow_dogma_v2_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
     },
     {
       "bytes": 81971,
-      "path": "packages/antigence_publication_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+      "path": "sites/zenodo/2026-08-04/packages/antigence_publication_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
       "sha256": "73b2cf8b3801b6d41ac927deca60ae9b01b8673946cc8d83d39afa98f30347d6",
       "source": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/antigence_publication/antigence_publication_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
     },
     {
       "bytes": 1750,
-      "path": "docs/README_UPLOAD_STEPS.md",
+      "path": "sites/github/2026-08-04/docs/README_UPLOAD_STEPS.md",
       "sha256": "9f46f41a047179bf8b3159866a7ba1704d009d68286e4f70b362155fd311f66b",
       "source": "/Users/byron/Public/preprint_submissions_20260804/00_SUBMISSION_STEPS_AND_MANIFESTS/README_UPLOAD_STEPS.md"
     },
     {
       "bytes": 3281,
-      "path": "docs/SUBMISSION_TREE_MANIFEST_20260804.json",
+      "path": "sites/github/2026-08-04/docs/SUBMISSION_TREE_MANIFEST_20260804.json",
       "sha256": "5215e7132e42cc8a33fa893a205a0e8295017f3405a65c9f26a94ec1231c53ec",
       "source": "/Users/byron/Public/preprint_submissions_20260804/00_SUBMISSION_STEPS_AND_MANIFESTS/SUBMISSION_TREE_MANIFEST_20260804.json"
     },
     {
       "bytes": 826,
-      "path": "docs/SHA256SUMS.txt",
+      "path": "sites/github/2026-08-04/docs/SHA256SUMS.txt",
       "sha256": "f1830d8c74a0a7e317f320bc136a731d69a0602d1e30e3b28a8b2c464da23b2c",
       "source": "/Users/byron/Public/preprint_submissions_20260804/00_SUBMISSION_STEPS_AND_MANIFESTS/SHA256SUMS.txt"
     }
@@ -53,13 +54,20 @@
       "path": "release-assets/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
       "placement": "GitHub Release asset because file is over GitHub 100MB normal git limit",
       "sha256": "dcf34f1d7aa8a08abb1d6f7df864aed07e7aadb0491403927c556f43f59c5eaf",
-      "source": "/Users/byron/Public/preprint_submissions_20260804/02_HUGGING_FACE_PRIVATE_MODEL_UPLOAD/fco_vithia_private_model/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
+      "source": "/Users/byron/Public/preprint_submissions_20260804/02_HUGGING_FACE_PRIVATE_MODEL_UPLOAD/fco_vithia_private_model/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+      "url": "https://github.com/biobitworks/publication-releases/releases/download/v2026.08.04/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
     }
   ],
-  "release_url": "https://github.com/biobitworks/preprint-submissions-20260804/releases/tag/v2026.08.04",
-  "repo": "biobitworks/preprint-submissions-20260804",
-  "repo_url": "https://github.com/biobitworks/preprint-submissions-20260804",
+  "release_url": "https://github.com/biobitworks/publication-releases/releases/tag/v2026.08.04",
+  "rename_note": "Renamed from biobitworks/preprint-submissions-20260804 to durable site-tracking repo biobitworks/publication-releases.",
+  "repo": "biobitworks/publication-releases",
+  "repo_url": "https://github.com/biobitworks/publication-releases",
   "schema": "github_public_repo_manifest.v1",
-  "status": "GITHUB_PUBLIC_REPO_AND_RELEASE_PUBLISHED",
+  "site_layout": {
+    "github": "sites/github/2026-08-04",
+    "hugging_face": "sites/hugging-face/2026-08-04",
+    "zenodo": "sites/zenodo/2026-08-04"
+  },
+  "status": "GITHUB_PUBLIC_REPO_RENAMED_AND_RELEASE_FOLDERED",
   "visibility": "public"
 }

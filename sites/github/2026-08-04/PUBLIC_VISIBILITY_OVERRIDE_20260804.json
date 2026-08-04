@@ -13,8 +13,13 @@
     "sha256": "dcf34f1d7aa8a08abb1d6f7df864aed07e7aadb0491403927c556f43f59c5eaf",
     "source": "/Users/byron/Public/preprint_submissions_20260804/02_HUGGING_FACE_PRIVATE_MODEL_UPLOAD/fco_vithia_private_model/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
   },
+  "model_asset_url": "https://github.com/biobitworks/publication-releases/releases/download/v2026.08.04/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
   "operator_instruction": "GitHub repo for all versions and model that is public since they are self contained.",
   "receipt_leaf": "sha256:3944c4235409032e131a70c26f42023ba72477e162aa41cac3acf5bf46119762",
+  "release_url": "https://github.com/biobitworks/publication-releases/releases/tag/v2026.08.04",
+  "rename_note": "Renamed from biobitworks/preprint-submissions-20260804 to durable site-tracking repo biobitworks/publication-releases.",
+  "repo": "biobitworks/publication-releases",
+  "repo_url": "https://github.com/biobitworks/publication-releases",
   "repository": "biobitworks/preprint-submissions-20260804",
   "schema": "operator_public_visibility_override.v1",
   "scope": [
@@ -24,5 +29,10 @@
     "antigence_publication",
     "fco_vithia_hf_private_model"
   ],
+  "site_layout": {
+    "github": "sites/github/2026-08-04",
+    "hugging_face": "sites/hugging-face/2026-08-04",
+    "zenodo": "sites/zenodo/2026-08-04"
+  },
   "visibility": "public"
 }

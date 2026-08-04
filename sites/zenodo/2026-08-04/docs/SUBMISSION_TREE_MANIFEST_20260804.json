@@ -1,0 +1,60 @@
+{
+  "boundaries": {
+    "agent_public_upload": "NOT_PERFORMED",
+    "claim_promotion": "NOT_PERFORMED",
+    "live_kg_writeback": "NOT_PERFORMED",
+    "visibility_switch": "OPERATOR_ONLY"
+  },
+  "generated_at": "2026-08-04T16:45:00+00:00",
+  "manifest_leaf": "sha256:dd71e9f3004559066744edd48f56f8f6c1ad8e2927caa9bcf72f093d3cfbc780",
+  "records": [
+    {
+      "folder": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/fco_v4_v5",
+      "kind": "zenodo_preprint",
+      "label": "FCO v4/v5 + Vithia",
+      "package_id": "fco_v4_v5",
+      "sha256": "95fcd1a33df863c88be4c316f743121a2645429fa333d4a1edf2204b966f2bbf",
+      "status": "READY_FOR_ZENODO_MANUAL_UPLOAD",
+      "upload_file": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/fco_v4_v5/fco_v4_v5_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
+    },
+    {
+      "folder": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/xenodisorder_v2",
+      "kind": "zenodo_preprint",
+      "label": "XenoDisorder v2",
+      "package_id": "xenodisorder_v2",
+      "sha256": "1b62d148d4fdd146b53d6334158b6d36921812ddb57e5c496530d9b7a6a1ebe0",
+      "status": "READY_FOR_ZENODO_MANUAL_UPLOAD",
+      "upload_file": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/xenodisorder_v2/xenodisorder_v2_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
+    },
+    {
+      "folder": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/shadow_dogma_v2",
+      "kind": "zenodo_preprint",
+      "label": "Shadow Dogma v2",
+      "package_id": "shadow_dogma_v2",
+      "sha256": "23378fdf024fff28aaa1eb7c8a983d81881fb03860369b68699297c5cff9278b",
+      "status": "READY_FOR_ZENODO_MANUAL_UPLOAD",
+      "upload_file": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/shadow_dogma_v2/shadow_dogma_v2_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
+    },
+    {
+      "folder": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/antigence_publication",
+      "kind": "zenodo_preprint",
+      "label": "Antigence publication",
+      "package_id": "antigence_publication",
+      "sha256": "73b2cf8b3801b6d41ac927deca60ae9b01b8673946cc8d83d39afa98f30347d6",
+      "status": "READY_FOR_ZENODO_MANUAL_UPLOAD",
+      "upload_file": "/Users/byron/Public/preprint_submissions_20260804/01_ZENODO_PREPRINT_UPLOADS/antigence_publication/antigence_publication_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
+    },
+    {
+      "folder": "/Users/byron/Public/preprint_submissions_20260804/02_HUGGING_FACE_PRIVATE_MODEL_UPLOAD/fco_vithia_private_model",
+      "kind": "hugging_face_private_model",
+      "label": "FCO/Vithia FMO-076 private model package",
+      "package_id": "fco_vithia_hf_private_model",
+      "sha256": "dcf34f1d7aa8a08abb1d6f7df864aed07e7aadb0491403927c556f43f59c5eaf",
+      "status": "READY_FOR_HF_PRIVATE_MANUAL_UPLOAD",
+      "upload_file": "/Users/byron/Public/preprint_submissions_20260804/02_HUGGING_FACE_PRIVATE_MODEL_UPLOAD/fco_vithia_private_model/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
+    }
+  ],
+  "root": "/Users/byron/Public/preprint_submissions_20260804",
+  "schema": "public_submission_tree_manifest.v1",
+  "status": "READY_FOR_OPERATOR_MANUAL_UPLOADS"
+}

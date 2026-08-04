@@ -35,13 +35,19 @@
   "branch": "main",
   "commit": "6fa737f",
   "generated_at": "2026-08-04T16:45:00+00:00",
-  "model_asset_url": "https://github.com/biobitworks/preprint-submissions-20260804/releases/download/v2026.08.04/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+  "model_asset_url": "https://github.com/biobitworks/publication-releases/releases/download/v2026.08.04/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
   "receipt_leaf": "sha256:775632d16d07ce80e9677b72f9d448b74f817946304bb84916912de3dd65adfd",
   "release_tag": "v2026.08.04",
-  "release_url": "https://github.com/biobitworks/preprint-submissions-20260804/releases/tag/v2026.08.04",
-  "repo": "biobitworks/preprint-submissions-20260804",
-  "repo_url": "https://github.com/biobitworks/preprint-submissions-20260804",
+  "release_url": "https://github.com/biobitworks/publication-releases/releases/tag/v2026.08.04",
+  "rename_note": "Renamed from biobitworks/preprint-submissions-20260804 to durable site-tracking repo biobitworks/publication-releases.",
+  "repo": "biobitworks/publication-releases",
+  "repo_url": "https://github.com/biobitworks/publication-releases",
   "schema": "github_public_publish_receipt.v1",
+  "site_layout": {
+    "github": "sites/github/2026-08-04",
+    "hugging_face": "sites/hugging-face/2026-08-04",
+    "zenodo": "sites/zenodo/2026-08-04"
+  },
   "status": "GITHUB_PUBLIC_REPO_AND_RELEASE_PUBLISHED",
   "visibility": "PUBLIC"
 }
