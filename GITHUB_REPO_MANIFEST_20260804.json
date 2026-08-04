@@ -1,6 +1,8 @@
 {
   "generated_at": "2026-08-04T16:55:00+00:00",
   "manifest_leaf": "sha256:bf87abef633efe52eaf232f074c203bf153b54157234a3d4f3389f0b8252ad05",
+  "model_asset_url": "https://github.com/biobitworks/preprint-submissions-20260804/releases/download/v2026.08.04/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+  "published_commit_before_receipt": "6fa737f",
   "records": [
     {
       "bytes": 95426,
@@ -54,8 +56,10 @@
       "source": "/Users/byron/Public/preprint_submissions_20260804/02_HUGGING_FACE_PRIVATE_MODEL_UPLOAD/fco_vithia_private_model/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
     }
   ],
+  "release_url": "https://github.com/biobitworks/preprint-submissions-20260804/releases/tag/v2026.08.04",
   "repo": "biobitworks/preprint-submissions-20260804",
+  "repo_url": "https://github.com/biobitworks/preprint-submissions-20260804",
   "schema": "github_public_repo_manifest.v1",
-  "status": "LOCAL_GITHUB_REPO_READY",
+  "status": "GITHUB_PUBLIC_REPO_AND_RELEASE_PUBLISHED",
   "visibility": "public"
 }

@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "kind": "git_file",
+      "path": "packages/fco_v4_v5_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+      "sha256": "95fcd1a33df863c88be4c316f743121a2645429fa333d4a1edf2204b966f2bbf"
+    },
+    {
+      "kind": "git_file",
+      "path": "packages/xenodisorder_v2_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+      "sha256": "1b62d148d4fdd146b53d6334158b6d36921812ddb57e5c496530d9b7a6a1ebe0"
+    },
+    {
+      "kind": "git_file",
+      "path": "packages/shadow_dogma_v2_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+      "sha256": "23378fdf024fff28aaa1eb7c8a983d81881fb03860369b68699297c5cff9278b"
+    },
+    {
+      "kind": "git_file",
+      "path": "packages/antigence_publication_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+      "sha256": "73b2cf8b3801b6d41ac927deca60ae9b01b8673946cc8d83d39afa98f30347d6"
+    },
+    {
+      "kind": "release_asset",
+      "path": "fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+      "sha256": "dcf34f1d7aa8a08abb1d6f7df864aed07e7aadb0491403927c556f43f59c5eaf"
+    }
+  ],
+  "boundaries": {
+    "claim_promotion": "NOT_PERFORMED",
+    "hugging_face_upload": "NOT_PERFORMED_BY_GITHUB_STEP",
+    "live_kg_writeback": "NOT_PERFORMED",
+    "zenodo_upload": "NOT_PERFORMED_BY_GITHUB_STEP"
+  },
+  "branch": "main",
+  "commit": "6fa737f",
+  "generated_at": "2026-08-04T16:45:00+00:00",
+  "model_asset_url": "https://github.com/biobitworks/preprint-submissions-20260804/releases/download/v2026.08.04/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+  "receipt_leaf": "sha256:775632d16d07ce80e9677b72f9d448b74f817946304bb84916912de3dd65adfd",
+  "release_tag": "v2026.08.04",
+  "release_url": "https://github.com/biobitworks/preprint-submissions-20260804/releases/tag/v2026.08.04",
+  "repo": "biobitworks/preprint-submissions-20260804",
+  "repo_url": "https://github.com/biobitworks/preprint-submissions-20260804",
+  "schema": "github_public_publish_receipt.v1",
+  "status": "GITHUB_PUBLIC_REPO_AND_RELEASE_PUBLISHED",
+  "visibility": "PUBLIC"
+}
