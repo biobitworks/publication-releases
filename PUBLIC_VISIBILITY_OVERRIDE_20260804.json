@@ -1,0 +1,28 @@
+{
+  "boundaries": {
+    "claim_promotion": "not_performed",
+    "hugging_face_upload": "not_performed_by_this_github_step",
+    "live_kg_writeback": "not_performed",
+    "zenodo_upload": "not_performed_by_this_github_step"
+  },
+  "generated_at": "2026-08-04T16:55:00+00:00",
+  "model_asset": {
+    "bytes": 210427225,
+    "path": "release-assets/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip",
+    "placement": "GitHub Release asset because file is over GitHub 100MB normal git limit",
+    "sha256": "dcf34f1d7aa8a08abb1d6f7df864aed07e7aadb0491403927c556f43f59c5eaf",
+    "source": "/Users/byron/Public/preprint_submissions_20260804/02_HUGGING_FACE_PRIVATE_MODEL_UPLOAD/fco_vithia_private_model/fco_vithia_hf_private_model_PUBLIC_UPLOAD_BUNDLE_20260804.zip"
+  },
+  "operator_instruction": "GitHub repo for all versions and model that is public since they are self contained.",
+  "receipt_leaf": "sha256:3944c4235409032e131a70c26f42023ba72477e162aa41cac3acf5bf46119762",
+  "repository": "biobitworks/preprint-submissions-20260804",
+  "schema": "operator_public_visibility_override.v1",
+  "scope": [
+    "fco_v4_v5",
+    "xenodisorder_v2",
+    "shadow_dogma_v2",
+    "antigence_publication",
+    "fco_vithia_hf_private_model"
+  ],
+  "visibility": "public"
+}
