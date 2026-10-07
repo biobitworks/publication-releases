@@ -19,3 +19,5 @@ Large model artifacts are attached to GitHub Releases when they exceed normal gi
 ## Boundaries
 
 This repository tracks site-specific publication packages and receipts. It does not itself perform Zenodo upload, Hugging Face upload, live KG writeback, PI countersignature, or claim promotion unless a site receipt explicitly says so.
+
+**License:** Unless otherwise explicitly licensed, original Biobitworks material in this repository is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/); third-party components remain under their respective licenses.
